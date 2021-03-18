@@ -1,0 +1,29 @@
+{
+  "name": "valorank-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demaskhey/valorank-bot.git"
+  },
+  "author": "demaskhey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demaskhey/valorank-bot/issues"
+  },
+  "homepage": "https://github.com/demaskhey/valorank-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "tmi.js": "^1.7.1"
+  }
+}
